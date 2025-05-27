@@ -1,11 +1,11 @@
-# 🧩 Relic's Curse
+#  Relic's Curse
 
 **Relic's Curse** is a third-person stealth adventure built in Unity.  
 You play as a silent hero sent to retrieve a sacred relic from a corrupted wizard. Dodging fireballs, evading patrols, and navigating through an immersive environment.
 
 ---
 
-## 🎮 Gameplay Features
+##  Gameplay Features
 - Stealth mechanics with AI guard patrols and vision detection
 - Boss encounter with HP-draining fireball attacks
 - Fade transitions, respawn system, and immersive feedback
@@ -14,7 +14,7 @@ You play as a silent hero sent to retrieve a sacred relic from a corrupted wizar
 
 ---
 
-## 📦 Project Details
+##  Project Details
 - 👤 **Role:** Solo Developer (Carlkai)
 - 🛠 **Engine:** Unity 6
 - ⏱ **Development Time:** 1 month
@@ -22,7 +22,7 @@ You play as a silent hero sent to retrieve a sacred relic from a corrupted wizar
 
 ---
 
-## 🔧 How to Play
+##  How to Play
 - Avoid guard vision cones to survive
 - Dodge incoming fireballs from the wizard
 - Pick up the relic and return to the NPC
@@ -30,5 +30,5 @@ You play as a silent hero sent to retrieve a sacred relic from a corrupted wizar
 
 ---
 
-## 📝 License
+##  License
 This project is licensed under the [MIT License](LICENSE).
