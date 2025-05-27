@@ -1,34 +1,48 @@
-#  Relic's Curse
+DC: Doctor Cat!
+Doctor Cat! is a light-hearted 2D pixel shooter made in Unity.
+You play as an adorable cat doctor defending against an endless wave of viruses. Use power-ups, dodge threats, and survive as long as you can while racking up points and saving the day!
 
-**Relic's Curse** is a third-person stealth adventure built in Unity.  
-You play as a silent hero sent to retrieve a sacred relic from a corrupted wizard. Dodging fireballs, evading patrols, and navigating through an immersive environment.
+Gameplay Features
+Smooth player movement with 4-direction control
 
----
+Auto-shooting mechanic with score-based gameplay
 
-##  Gameplay Features
-- Stealth mechanics with AI guard patrols and vision detection
-- Boss encounter with HP-draining fireball attacks
-- Fade transitions, respawn system, and immersive feedback
-- Quest system with UI prompts and dialogue-driven progression
-- Audio sourced from [Pixabay](https://pixabay.com/) and fully integrated
+Speed boost (CTRL) and fast-shooting (SPACE) buffs
 
----
+HP system with animated UI hearts
 
-##  Project Details
-- 👤 **Role:** Solo Developer (Carlkai)
-- 🛠 **Engine:** Unity 6
-- ⏱ **Development Time:** 1 month
-- 🧠 **Focus Areas:** AI behavior, player feedback, level design, UI flow
+Game Over screen with smooth fade transitions
 
----
+Power-up healing system with randomized spawns
 
-##  How to Play
-- Avoid guard vision cones to survive
-- Dodge incoming fireballs from the wizard
-- Pick up the relic and return to the NPC
-- Experience a full quest loop with visual/audio feedback
+Fully animated UI cooldown indicators
 
----
+Scrolling background and screen shake effects
 
-##  License
-This project is licensed under the [MIT License](LICENSE).
+Project Details
+🧑‍⚕️ Role: Solo Developer (Carlos Rondon)
+
+🛠️ Engine: Unity 6
+
+⏱️ Development Time: 1 week
+
+🎯 Focus Areas: Gameplay systems, player feedback, UI polish, rapid prototyping
+
+🎮 How to Play
+Move: WASD or Arrow Keys
+
+Shoot: Automatically fires forward
+
+Speed Boost: Hold Left Ctrl
+
+Fast Shooting Buff: Press Spacebar
+
+Collect Hearts: Restore 1 HP (only if you're not at max)
+
+Avoid Enemies: Colliding will reduce your HP
+
+Survive as long as possible while increasing your score.
+The game ends when your health runs out.
+
+License
+This project is licensed under the MIT License.
