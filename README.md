@@ -15,7 +15,7 @@ You play as a silent hero sent to retrieve a sacred relic from a corrupted wizar
 ---
 
 ## 📦 Project Details
-- 👤 **Role:** Solo Developer (Carlkai)
+- 👤 **Role:** Solo Developer 
 - 🛠 **Engine:** Unity 6
 - ⏱ **Development Time:** 1 month
 - 🧠 **Focus Areas:** AI behavior, player feedback, level design, UI flow
